@@ -1,6 +1,6 @@
 # 🚗 Ekstraksi Fitur Bentuk Kendaraan — Computer Vision
 
-> Tugas Mata Kuliah **Visi Komputer** | Teknik Informatika  
+> Tugas Mata Kuliah **Visi Komputer** | Informatika  
 > Topik: **Feature Extraction** menggunakan Shape Features pada Objek Kendaraan
 
 ---
@@ -133,9 +133,3 @@ pip install ultralytics -q
 - **Shape Features** — representasi numerik bentuk suatu objek
 - **Contour Analysis** — analisis geometri kontur untuk klasifikasi bentuk
 - **Alpha Blending** — teknik overlay transparan untuk visualisasi mask
-
----
-
-## 👤 Informasi
-
-> Dibuat sebagai bagian dari tugas praktikum mata kuliah **Visi Komputer**, Program Studi Informatika.
